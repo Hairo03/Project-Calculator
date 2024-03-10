@@ -3,7 +3,7 @@ let secondOperand;
 let firstOperator;
 let secondOperator;
 
-const display = document.querySelector("h2");
+const display = document.querySelector("p");
 
 let displayOperators = {
     "add": " + ",
